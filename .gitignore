@@ -1,0 +1,12 @@
+node_modules
+libpeerconnection.log
+temp
+heroku/dist
+heroku/.git
+.sass-cache
+.tmp
+.idea/*
+opened-web.iml
+.DS_Store
+test/lib/compiled-templates.js
+npm-debug.log
